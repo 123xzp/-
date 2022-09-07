@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>我的网站</title>
+	<link rel="stylesheet" href="template">
+</head>
+<body>
+	<div class="bg-img"></div>
+	<header>我的网站</header>
+	<main>
+		<h1>Hello, 帅哥美女</h1>
+		<div style="
+          backgroud-color: ＃flflfl；
+          text-alige: center；
+          padding: 40px；
+        ">
+          <img src="<a href="https://imgse.com/i/vH80r4"><img src="https://s1.ax1x.com/2022/09/07/vH80r4.png" alt="vH80r4.png" border="0" />
+        </div>
+        <div style="
+          max-width: 700px；
+          margin: 30px auto；
+          padding: 15px
+          line-height: 1.7；
+        ">
+          <p>大家好</p>
+          <p>我叫小棕瓶</p>
+          <p>我来自湖北武汉</p>
+          <p>我是康哥粉丝</p>
+        </div>
+        <div style="
+          bakgroud-color: ＃flflfl；
+          text-align: center；
+          padding: 40px；
+          font-size: 12px；
+        ">
+         <p>这是我们的社群</p>
+         <a href="https://kangwenchang.com/">友情链接</a>
+         
+
+</body>
+</html>
+	</main>
+</body>
+</html>
